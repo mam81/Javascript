@@ -1,6 +1,6 @@
 # Javascript
 
-## Estudo sobre:
+#### Estudo sobre:
 
 * Array
 * Controle
